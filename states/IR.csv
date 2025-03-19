@@ -1,0 +1,32 @@
+code,name,name_ascii,geonameid,iso,id,name_cn
+IR.26,Tehran,Tehran,110791,IR,26,德黑兰省
+IR.36,Zanjan,Zanjan,111452,IR,36,赞詹省
+IR.40,Yazd Province,Yazd Province,111821,IR,40,亚兹德省
+IR.25,Semnan,Semnan,116401,IR,25,塞姆南省
+IR.35,Māzandarān,Mazandaran,124544,IR,35,马赞德兰省
+IR.34,Markazi,Markazi,124763,IR,34,中央省
+IR.23,Lorestan Province,Lorestan Province,125605,IR,23,洛雷斯坦省
+IR.16,Kurdistan Province,Kurdistan Province,126584,IR,16,库尔德斯坦省
+IR.05,Kohgiluyeh and Boyer-Ahmad,Kohgiluyeh and Boyer-Ahmad,126878,IR,5,科吉卢耶－博韦艾哈迈德省
+IR.15,Khuzestan,Khuzestan,127082,IR,15,
+IR.13,Kermanshah Province,Kermanshah Province,128222,IR,13,克尔曼沙汗省
+IR.29,Kerman,Kerman,128231,IR,29,克尔曼省
+IR.10,Ilam Province,Ilam Province,130801,IR,10,伊拉姆省
+IR.11,Hormozgan,Hormozgan,131222,IR,11,霍尔木兹甘省
+IR.09,Hamadan Province,Hamadan Province,132142,IR,9,哈马丹省
+IR.08,Gilan Province,Gilan Province,133349,IR,8,吉兰省
+IR.07,Fars,Fars,134766,IR,7,法尔斯省
+IR.03,Chaharmahal and Bakhtiari,Chaharmahal and Bakhtiari,139677,IR,3,恰哈马哈勒－巴赫蒂亚里省
+IR.22,Bushehr,Bushehr,139816,IR,22,布什尔省
+IR.33,East Azerbaijan,East Azerbaijan,142549,IR,33,东阿塞拜疆省
+IR.01,West Azerbaijan,West Azerbaijan,142550,IR,1,西阿塞拜疆省
+IR.32,Ardabil Province,Ardabil Province,413931,IR,32,阿尔达比勒省
+IR.28,Isfahan,Isfahan,418862,IR,28,伊斯法罕省
+IR.37,Golestan,Golestan,443792,IR,37,戈勒斯坦省
+IR.38,Qazvin Province,Qazvin Province,443793,IR,38,加兹温省
+IR.39,Qom Province,Qom Province,443794,IR,39,库姆省
+IR.04,Sistan and Baluchestan,Sistan and Baluchestan,1159456,IR,4,锡斯坦和俾路支斯坦省
+IR.41,South Khorasan Province,South Khorasan Province,6201374,IR,41,南呼罗珊省
+IR.42,Razavi Khorasan,Razavi Khorasan,6201375,IR,42,礼萨呼罗珊省
+IR.43,North Khorasan,North Khorasan,6201376,IR,43,北呼罗珊省
+IR.44,Alborz Province,Alborz Province,7648907,IR,44,厄尔布尔士省

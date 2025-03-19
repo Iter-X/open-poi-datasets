@@ -1,0 +1,33 @@
+code,name,name_ascii,geonameid,iso,id,name_cn
+BS.35,San Salvador,San Salvador,3571493,BS,35,圣萨尔瓦多岛
+BS.18,Ragged Island,Ragged Island,3571629,BS,18,拉吉德岛
+BS.32,Berry Islands,Berry Islands,3571809,BS,32,贝里群岛
+BS.23,New Providence,New Providence,3571815,BS,23,新普罗维登斯岛
+BS.16,Mayaguana,Mayaguana,3571894,BS,16,马亚瓜纳岛
+BS.15,Long Island,Long Island,3572005,BS,15,长岛
+BS.13,Inagua,Inagua,3572154,BS,13,那瓜岛
+BS.22,Harbour Island,Harbour Island,3572238,BS,22,哈勃岛
+BS.25,Freeport,Freeport,3572374,BS,25,自由港
+BS.10,Exuma,Exuma,3572427,BS,10,埃克苏马
+BS.06,Cat Island,Cat Island,3572678,BS,6,卡特岛
+BS.05,Bimini,Bimini,3572807,BS,5,北比米尼岛
+BS.24,Acklins,Acklins,3572937,BS,24,阿克林斯岛
+BS.36,Black Point,Black Point,8030541,BS,36,布莱克波因特区
+BS.37,Central Abaco,Central Abaco,8030542,BS,37,中阿巴科
+BS.38,Central Andros,Central Andros,8030543,BS,38,中安德罗斯区
+BS.39,Central Eleuthera,Central Eleuthera,8030544,BS,39,中伊柳塞拉区
+BS.40,Crooked Island and Long Cay,Crooked Island and Long Cay,8030545,BS,40,曲岛和长礁
+BS.41,East Grand Bahama,East Grand Bahama,8030546,BS,41,东大巴哈马区
+BS.42,Grand Cay,Grand Cay,8030547,BS,42,大礁岛
+BS.43,Hope Town,Hope Town,8030548,BS,43,希望镇
+BS.44,Mangrove Cay,Mangrove Cay,8030549,BS,44,红树林礁岛
+BS.45,Moore’s Island,Moore's Island,8030550,BS,45,摩尔斯岛
+BS.46,North Abaco,North Abaco,8030551,BS,46,北阿巴科区
+BS.47,North Andros,North Andros,8030552,BS,47,北安德罗斯岛
+BS.48,North Eleuthera,North Eleuthera,8030553,BS,48,北伊柳塞拉
+BS.49,Rum Cay,Rum Cay,8030554,BS,49,朗姆岛
+BS.50,South Abaco,South Abaco,8030555,BS,50,南阿巴科区
+BS.51,South Andros,South Andros,8030556,BS,51,南安德罗斯
+BS.52,South Eleuthera,South Eleuthera,8030557,BS,52,南伊柳塞拉
+BS.53,Spanish Wells,Spanish Wells,8030558,BS,53,西舰井
+BS.54,West Grand Bahama,West Grand Bahama,8030559,BS,54,西大巴哈马区

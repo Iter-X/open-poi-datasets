@@ -1,0 +1,27 @@
+code,name,name_ascii,geonameid,iso,id,name_cn
+CH.ZH,Zurich,Zurich,2657895,CH,ZH,苏黎世州
+CH.ZG,Zug,Zug,2657907,CH,ZG,楚格州
+CH.VD,Vaud,Vaud,2658182,CH,VD,沃州
+CH.VS,Valais,Valais,2658205,CH,VS,瓦莱州
+CH.UR,Uri,Uri,2658226,CH,UR,乌里州
+CH.TI,Ticino,Ticino,2658370,CH,TI,提契诺州
+CH.TG,Thurgau,Thurgau,2658372,CH,TG,图尔高州
+CH.SO,Solothurn,Solothurn,2658563,CH,SO,索洛图恩州
+CH.SZ,Schwyz,Schwyz,2658664,CH,SZ,施维茨州
+CH.SH,Schaffhausen,Schaffhausen,2658760,CH,SH,沙夫豪森州
+CH.SG,Saint Gallen,Saint Gallen,2658821,CH,SG,
+CH.OW,Obwalden,Obwalden,2659315,CH,OW,上瓦尔登州
+CH.NW,Nidwalden,Nidwalden,2659471,CH,NW,下瓦尔登州
+CH.NE,Neuchâtel,Neuchatel,2659495,CH,NE,纳沙泰尔州
+CH.LU,Lucerne,Lucerne,2659810,CH,LU,卢塞恩州
+CH.JU,Jura,Jura,2660207,CH,JU,汝拉州
+CH.GR,Grisons,Grisons,2660522,CH,GR,格劳宾登州
+CH.GL,Glarus,Glarus,2660593,CH,GL,格拉魯斯州
+CH.GE,Geneva,Geneva,2660645,CH,GE,日內瓦州
+CH.FR,Fribourg,Fribourg,2660717,CH,FR,弗里堡州
+CH.BE,Bern,Bern,2661551,CH,BE,伯恩州
+CH.BS,Basel-City,Basel-City,2661602,CH,BS,巴塞尔城市州
+CH.BL,Basel-Landschaft,Basel-Landschaft,2661603,CH,BL,巴塞尔乡村州
+CH.AR,Appenzell Ausserrhoden,Appenzell Ausserrhoden,2661739,CH,AR,外阿彭策尔州
+CH.AI,Appenzell Innerrhoden,Appenzell Innerrhoden,2661741,CH,AI,内阿彭策尔州
+CH.AG,Aargau,Aargau,2661876,CH,AG,阿尔高州

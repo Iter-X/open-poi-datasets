@@ -1,0 +1,32 @@
+code,name,name_ascii,geonameid,iso,id,name_cn
+TZ.19,Kagera,Kagera,148679,TZ,19,卡盖拉区
+TZ.25,Zanzibar Urban/West,Zanzibar Urban/West,148724,TZ,25,桑给巴尔市区/西区
+TZ.22,Zanzibar North,Zanzibar North,148725,TZ,22,桑给巴尔北区
+TZ.21,Zanzibar Central/South,Zanzibar Central/South,148728,TZ,21,桑给巴尔中南区
+TZ.18,Tanga,Tanga,149595,TZ,18,坦噶区
+TZ.17,Tabora,Tabora,149653,TZ,17,塔波拉区
+TZ.16,Singida,Singida,149876,TZ,16,辛吉达区
+TZ.15,Shinyanga,Shinyanga,150004,TZ,15,欣延加区
+TZ.24,Rukwa,Rukwa,150442,TZ,24,鲁夸区
+TZ.02,Pwani,Pwani,150602,TZ,2,滨海区
+TZ.20,Pemba South,Pemba South,150732,TZ,20,奔巴南区
+TZ.13,Pemba North,Pemba North,150733,TZ,13,奔巴北区
+TZ.12,Mwanza,Mwanza,152219,TZ,12,姆万扎区
+TZ.10,Morogoro,Morogoro,153214,TZ,10,莫罗戈罗区
+TZ.09,Mbeya,Mbeya,154375,TZ,9,姆贝亚区
+TZ.08,Mara,Mara,154775,TZ,8,马拉区
+TZ.07,Lindi,Lindi,155946,TZ,7,林迪区
+TZ.06,Kilimanjaro,Kilimanjaro,157449,TZ,6,乞力马扎罗区
+TZ.05,Kigoma,Kigoma,157732,TZ,5,基戈马区
+TZ.04,Iringa,Iringa,159067,TZ,4,伊林加区
+TZ.03,Dodoma,Dodoma,160192,TZ,3,多多马區
+TZ.23,Dar es Salaam Region,Dar es Salaam Region,160260,TZ,23,达累斯萨拉姆区
+TZ.26,Arusha,Arusha,161322,TZ,26,阿鲁沙区
+TZ.27,Manyara,Manyara,435764,TZ,27,曼亚拉区
+TZ.14,Ruvuma,Ruvuma,877416,TZ,14,鲁伍马区
+TZ.11,Mtwara,Mtwara,877744,TZ,11,姆特瓦拉区
+TZ.31,Simiyu,Simiyu,8469238,TZ,31,锡米尤区
+TZ.28,Geita,Geita,8469239,TZ,28,盖塔区
+TZ.29,Katavi,Katavi,8469240,TZ,29,卡塔维区
+TZ.30,Njombe,Njombe,8469241,TZ,30,恩琼贝区
+TZ.32,Songwe,Songwe,11124984,TZ,32,松圭区

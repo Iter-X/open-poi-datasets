@@ -1,0 +1,82 @@
+code,name,name_ascii,geonameid,iso,id,name_cn
+TR.66,Yozgat,Yozgat,296560,TR,66,约兹加特省
+TR.65,Van,Van,298113,TR,65,凡省
+TR.64,Uşak,Usak,298298,TR,64,乌沙克省
+TR.63,Şanlıurfa,Sanliurfa,298332,TR,63,尚勒乌尔法省
+TR.62,Tunceli,Tunceli,298845,TR,62,通杰利省
+TR.58,Sivas,Sivas,300617,TR,58,锡瓦斯省
+TR.74,Siirt,Siirt,300821,TR,74,锡尔特省
+TR.73,Niğde Province,Nigde Province,303826,TR,73,尼代省
+TR.50,Nevşehir Province,Nevsehir Province,303830,TR,50,内夫谢希尔省
+TR.49,Muş,Mus,304041,TR,49,穆什省
+TR.48,Muğla,Mugla,304183,TR,48,穆拉省
+TR.72,Mardin,Mardin,304794,TR,72,马尔丁省
+TR.45,Manisa,Manisa,304825,TR,45,马尼萨省
+TR.44,Malatya,Malatya,304919,TR,44,马拉蒂亚省
+TR.43,Kütahya,Kuetahya,305267,TR,43,屈塔希亚省
+TR.71,Konya,Konya,306569,TR,71,科尼亚省
+TR.40,Kırşehir,Kirsehir,307513,TR,40,克尔谢希尔省
+TR.38,Kayseri,Kayseri,308463,TR,38,开塞利省
+TR.46,Kahramanmaraş,Kahramanmaras,310858,TR,46,卡赫拉曼马拉什省
+TR.35,İzmir Province,Izmir Province,311044,TR,35,伊兹密尔省
+TR.33,Isparta,Isparta,311071,TR,33,厄斯帕尔塔省
+TR.32,Mersin,Mersin,311728,TR,32,梅尔辛省
+TR.31,Hatay,Hatay,312394,TR,31,哈塔伊省
+TR.70,Hakkâri,Hakkari,312888,TR,70,哈卡里省
+TR.83,Gaziantep,Gaziantep,314829,TR,83,加济安泰普省
+TR.26,Eskişehir,Eskisehir,315201,TR,26,埃斯基谢希尔省
+TR.25,Erzurum,Erzurum,315367,TR,25,埃尔祖鲁姆省
+TR.24,Erzincan,Erzincan,315372,TR,24,埃尔津詹省
+TR.23,Elazığ,Elazig,315807,TR,23,埃拉泽省
+TR.21,Diyarbakır Province,Diyarbakir Province,316540,TR,21,迪亚巴克尔省
+TR.20,Denizli,Denizli,317106,TR,20,代尼兹利省
+TR.15,Burdur,Burdur,320390,TR,15,布尔杜尔省
+TR.13,Bitlis,Bitlis,321022,TR,13,比特利斯省
+TR.12,Bingöl,Bingoel,321079,TR,12,宾格尔省
+TR.11,Bilecik,Bilecik,321122,TR,11,比莱吉克省
+TR.10,Balıkesir,Balikesir,322164,TR,10,巴勒克埃西尔省
+TR.09,Aydın,Aydin,322819,TR,9,艾登省
+TR.07,Antalya,Antalya,323776,TR,7,安塔利亚省
+TR.68,Ankara,Ankara,323784,TR,68,安卡拉次分區
+TR.04,Ağrı,Agri,325163,TR,4,阿勒省
+TR.03,Afyonkarahisar Province,Afyonkarahisar Province,325302,TR,3,阿菲永卡拉希萨尔省
+TR.02,Adıyaman Province,Adiyaman Province,325329,TR,2,阿德亚曼省
+TR.81,Adana,Adana,325361,TR,81,阿达纳省
+TR.91,Osmaniye,Osmaniye,443183,TR,91,奥斯曼尼耶省
+TR.88,Iğdır,Igdir,443184,TR,88,厄德尔省
+TR.75,Aksaray,Aksaray,443185,TR,75,阿克萨赖省
+TR.76,Batman,Batman,443186,TR,76,巴特曼省
+TR.78,Karaman,Karaman,443187,TR,78,卡拉曼省
+TR.79,Kırıkkale,Kirikkale,443188,TR,79,克勒克卡莱省
+TR.80,Şırnak,Sirnak,443189,TR,80,舍尔纳克省
+TR.90,Kilis,Kilis,443213,TR,90,基利斯省
+TR.85,Zonguldak Province,Zonguldak Province,737021,TR,85,宗古尔达克省
+TR.61,Trabzon,Trabzon,738647,TR,61,特拉布宗省
+TR.60,Tokat Province,Tokat Province,738742,TR,60,托卡特省
+TR.59,Tekirdağ,Tekirdag,738926,TR,59,泰基尔达省
+TR.57,Sinop,Sinop,739598,TR,57,锡诺普省
+TR.55,Samsun,Samsun,740263,TR,55,萨姆松省
+TR.54,Sakarya,Sakarya,740352,TR,54,萨卡里亚省
+TR.53,Rize Province,Rize Province,740481,TR,53,里泽省
+TR.52,Ordu,Ordu,741098,TR,52,奥尔杜省
+TR.41,Kocaeli,Kocaeli,742865,TR,41,科贾埃利省
+TR.39,Kırklareli,Kirklareli,743165,TR,39,克尔克拉雷利省
+TR.37,Kastamonu,Kastamonu,743881,TR,37,卡斯塔莫努省
+TR.84,Kars Province,Kars Province,743942,TR,84,卡尔斯省
+TR.34,Istanbul,Istanbul,745042,TR,34,伊斯坦布尔
+TR.69,Gümüşhane Province,Guemueshane Province,746423,TR,69,居米什哈内省
+TR.28,Giresun,Giresun,746878,TR,28,吉雷松省
+TR.22,Edirne,Edirne,747711,TR,22,埃迪尔内省
+TR.19,Çorum,Corum,748877,TR,19,乔鲁姆省
+TR.82,Çankırı,Cankiri,749747,TR,82,昌克勒省
+TR.17,Canakkale,Canakkale,749778,TR,17,恰纳卡莱省
+TR.16,Bursa Province,Bursa Province,750268,TR,16,布尔萨省
+TR.14,Bolu,Bolu,750510,TR,14,博卢省
+TR.08,Artvin,Artvin,751816,TR,8,阿尔特温省
+TR.05,Amasya,Amasya,752014,TR,5,阿马西亚省
+TR.87,Bartın,Bartin,862467,TR,87,巴尔滕省
+TR.89,Karabük Province,Karabuek Province,862468,TR,89,卡拉比克省
+TR.92,Yalova,Yalova,862469,TR,92,亚洛瓦省
+TR.86,Ardahan,Ardahan,862470,TR,86,阿尔达汉省
+TR.77,Bayburt Province,Bayburt Province,862471,TR,77,巴伊布尔特省
+TR.93,Düzce,Duzce,865521,TR,93,迪兹杰省
