@@ -1,7 +1,6 @@
 import csv
 import sys
 import os
-from datetime import datetime, timezone
 
 def is_empty(val):
     return val is None or str(val).strip().lower() in ('', 'n/a', 'na')
@@ -11,7 +10,6 @@ def safe_str(val):
 
 def generate_sql(csv_file_path, output_dir):
     state_name_en = os.path.splitext(os.path.basename(csv_file_path))[0]
-    now = datetime.now(timezone.utc).isoformat()
     output_file_name = f"{state_name_en}.sql"
     output_file_path = os.path.join(output_dir, output_file_name)
 
@@ -30,7 +28,7 @@ def generate_sql(csv_file_path, output_dir):
             code = safe_str(row.get('code'))
 
             value = f"""(
-    DEFAULT, '{now}', '{now}', {name_local}, {name_en}, {name_cn}, {code}, {state_id_sql}
+    DEFAULT, NOW(), NOW(), {name_local}, {name_en}, {name_cn}, {code}, {state_id_sql}
 )"""
             values.append(value)
 
